@@ -9,4 +9,4 @@ $ cd tehscript
 $ python2 tehscript.py
 ```
 ### DEMO
-(https://2.top4top.net/s_1284xnooo0.jpg)
+![demo_tehsquad](https://2.top4top.net/s_1284xnooo0.jpg)
