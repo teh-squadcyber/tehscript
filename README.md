@@ -1,1 +1,12 @@
-# tehscript
+### Features
+# AUTO CREATE SCRIPT DEFACE
+{Script Deface By Syntax7}
+
+### Usage
+```
+$ git clone https://github.com/teh-squadcyber/tehscript
+$ cd tehscript
+$ python2 tehscript.py
+```
+### DEMO
+(https://2.top4top.net/s_1284xnooo0.jpg)
