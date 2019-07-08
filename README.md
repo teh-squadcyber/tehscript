@@ -1,5 +1,5 @@
-### Features
-# AUTO CREATE SCRIPT DEFACE
+# Fitur
+###SCRIPT DEFACE AUTO CREATE
 {Script Deface By Syntax7}
 
 ### Usage
