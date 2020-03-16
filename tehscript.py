@@ -12,7 +12,7 @@ def teh():
    _.._     | '/                                                       
  /`    \    | /    {SCRIPT DEFACE TEH v1}
 |  .-._ '-"` (       
-|_/   /   o  o\       - TEH SQUAD CYBER 404 -               
+|_/   /   o  o\       - TEH SQUAD CYBER  -               
       |  =  () )=                                                      
        \  '--`/                                                        
        / ---<`                                                         
@@ -33,7 +33,7 @@ def teh():
    _.._     | '/
  /`    \    | /    {SCRIPT DEFACE TEH v1}
 |  .-._ '-"` (
-|_/   /   o  o\       - TEH SQUAD CYBER 404 -
+|_/   /   o  o\       - TEH SQUAD CYBER  -
       |  =  () )=
        \  '--`/    copyright (c) Syntax7 - TSC2019
        / ---<`
